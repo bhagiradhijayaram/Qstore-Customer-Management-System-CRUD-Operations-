@@ -81,5 +81,6 @@ Qstore is a full-stack web application built using React.js, Node.js, Express, M
 
 <img width="259" height="721" alt="screencapture-localhost-5173-customer-dashboard-2025-09-05-13_44_20" src="https://github.com/user-attachments/assets/b88ec5a1-ac40-4cd6-a5a5-6af955f910cf" />
 
+<img width="259" height="721" alt="screencapture-localhost-5173-customer-dashboard-2025-09-05-13_44_38" src="https://github.com/user-attachments/assets/80f6e49c-5da8-4205-811f-43c066c35eec" />
 
 <img width="259" height="1125" alt="screencapture-localhost-5173-2025-09-05-13_46_16" src="https://github.com/user-attachments/assets/4392a2a3-7d4c-4dfb-a03f-598488086900" />
