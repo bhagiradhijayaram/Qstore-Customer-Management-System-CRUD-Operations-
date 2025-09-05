@@ -4,15 +4,15 @@ Qstore is a full-stack web application built using React.js, Node.js, Express, M
 
 ### Key Features:
 
-Create New Customer:
+### Create New Customer:
 
-Form with fields like First Name, Last Name, Phone Number, Address, City, State, and Pin Code.
+- Form with fields like First Name, Last Name, Phone Number, Address, City, State, and Pin Code.
 
-Client-side validation using React and server-side validation with Node.js/Express.
+- Client-side validation using React and server-side validation with Node.js/Express.
 
-Checks for duplicate IDs, emails, and account type conflicts before saving.
+- Checks for duplicate IDs, emails, and account type conflicts before saving.
 
-Redirects users to the customer dashboard after successful creation.
+- Redirects users to the customer dashboard after successful creation.
 
 Read Customer Data:
 
