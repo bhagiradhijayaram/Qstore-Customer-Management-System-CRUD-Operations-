@@ -1,8 +1,8 @@
-### Qstore – Customer Management System (CRUD Operations)
+## Qstore – Customer Management System (CRUD Operations)
 
 Qstore is a full-stack web application built using React.js, Node.js, Express, MySQL, and Tailwind CSS. It provides a complete CRUD (Create, Read, Update, Delete) system for managing customer records with a clean, responsive, and modern UI.
 
-Key Features:
+### Key Features:
 
 Create New Customer:
 
